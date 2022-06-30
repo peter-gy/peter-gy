@@ -10,6 +10,7 @@ I'm a software developer based in Vienna, passionate to craft mobile application
 - 🛢 &nbsp;Database:&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
   ![Firestore](https://img.shields.io/badge/-Firestore-0A1A2F?style=flat&logo=firebase)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 - 📱 &nbsp;Mobile:&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=Flutter&logoColor=00d8fd)
 - 🌐 &nbsp;Frontend:&nbsp;
