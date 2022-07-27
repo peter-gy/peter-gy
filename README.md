@@ -13,7 +13,7 @@ I'm a software developer based in Vienna, passionate to craft mobile application
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 - 📱 &nbsp;Mobile:&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=Flutter&logoColor=00d8fd)
-- 🌐 &nbsp;Frontend:&nbsp;
+- 🌐 &nbsp;Web:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
 - ☁️ &nbsp;Cloud Tools:&nbsp;
