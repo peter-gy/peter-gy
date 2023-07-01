@@ -3,7 +3,6 @@
 I'm a developer & uni student based in Vienna, always looking for new challenges both in academia and industry.
 
 - 🔭 Studying at the [University of Vienna](https://www.univie.ac.at/) with a focus on visualization and data analysis.
-- 💼 Working at [Lean-Forge](https://lean-forge.at/) as a full-stack developer with a focus on web and mobile development.
 - 🐉 Contributing to [Draco 2](https://github.com/cmudig/draco2) in my free time, an awesome visualization recommendation engine.
 - 📊 Exploring ways to improve [VisRecly](https://github.com/peter-gy/VisRecly), a visualization recommendation system I built for my Bachelor's thesis.
 - 👀 Always looking for interesting projects to work on.
